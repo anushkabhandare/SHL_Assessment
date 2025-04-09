@@ -1,0 +1,83 @@
+[
+    {
+      "url": "https://www.shl.com/cognitive",
+      "adaptive_support": "Yes",
+      "description": "Measures problem solving, numerical reasoning and logical thinking.",
+      "duration": 40,
+      "remote_support": "Yes",
+      "test_type": ["Cognitive Ability"]
+    },
+    {
+      "url": "https://www.shl.com/sjt-sales",
+      "adaptive_support": "No",
+      "description": "Assesses decision-making and interpersonal skills in a sales context.",
+      "duration": 25,
+      "remote_support": "Yes",
+      "test_type": ["Situational Judgment"]
+    },
+    {
+      "url": "https://www.shl.com/personality-leadership",
+      "adaptive_support": "Yes",
+      "description": "Evaluates personality traits related to effective leadership.",
+      "duration": 30,
+      "remote_support": "Yes",
+      "test_type": ["Personality"]
+    },
+    {
+      "url": "https://www.shl.com/tech-coding",
+      "adaptive_support": "No",
+      "description": "Tests programming skills in Python, Java and algorithms.",
+      "duration": 60,
+      "remote_support": "Yes",
+      "test_type": ["Knowledge & Skills"]
+    },
+    {
+      "url": "https://www.shl.com/customer-service",
+      "adaptive_support": "No",
+      "description": "Simulates customer service scenarios to assess communication and empathy.",
+      "duration": 35,
+      "remote_support": "Yes",
+      "test_type": ["Simulation"]
+    },
+    {
+      "url": "https://www.shl.com/innovation-creativity",
+      "adaptive_support": "Yes",
+      "description": "Identifies creative thinking and innovative problem-solving ability.",
+      "duration": 30,
+      "remote_support": "Yes",
+      "test_type": ["Creativity", "Problem Solving"]
+    },
+    {
+      "url": "https://www.shl.com/data-interpretation",
+      "adaptive_support": "Yes",
+      "description": "Evaluates ability to interpret data, charts and make logical deductions.",
+      "duration": 45,
+      "remote_support": "Yes",
+      "test_type": ["Analytics"]
+    },
+    {
+      "url": "https://www.shl.com/emotional-intelligence",
+      "adaptive_support": "No",
+      "description": "Assesses emotional regulation, self-awareness and empathy.",
+      "duration": 30,
+      "remote_support": "Yes",
+      "test_type": ["Personality", "Behavioral"]
+    },
+    {
+      "url": "https://www.shl.com/analytical-thinking",
+      "adaptive_support": "No",
+      "description": "Measures analytical thinking and logic-based decision making.",
+      "duration": 35,
+      "remote_support": "Yes",
+      "test_type": ["Cognitive Ability"]
+    },
+    {
+      "url": "https://www.shl.com/project-management",
+      "adaptive_support": "No",
+      "description": "Simulates real-world project management tasks under constraints.",
+      "duration": 50,
+      "remote_support": "Yes",
+      "test_type": ["Simulation", "Management"]
+    }
+]
+  
